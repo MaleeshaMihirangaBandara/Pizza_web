@@ -1,0 +1,29 @@
+*{margin: 0; padding: 0;}
+
+.clearfix{overflow: auto;}
+
+.top_bar{
+    width: 1000px;
+    background-color: red;
+    margin: auto;
+    
+
+}
+
+.top_bar_links{
+    float:left;
+    margin: 20px;
+}
+
+.top_bar_search{
+    float: right;
+    margin: 20px;
+    roun
+}
+
+.top_bar_links ul li{
+    display: inline-block;
+    margin: 0px 15px;
+
+}
+
